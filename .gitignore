@@ -76,6 +76,16 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+# idea config
+.idea
+
 # old stages
 /Tic-Tac-Toe with AI (Java)/*
 !/Tic-Tac-Toe with AI (Java)/task/
