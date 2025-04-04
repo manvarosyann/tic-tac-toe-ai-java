@@ -4,7 +4,6 @@ import java.util.Random;
 
 public class MediumAIPlayer implements Player {
     private final char symbol;
-    private final Random random = new Random();
 
     public MediumAIPlayer(char symbol) {
         this.symbol = symbol;
